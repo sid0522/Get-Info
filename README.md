@@ -14,4 +14,5 @@ c++
 
 3. Get image data(details)
 
-![image](https://user-images.githubusercontent.com/12136571/46523298-e9f1df80-c8a2-11e8-8050-e1c1034ee7b2.png)
+![image](https://user-images.githubusercontent.com/12136571/46523354-173e8d80-c8a3-11e8-84a6-a8537220b384.png)
+
