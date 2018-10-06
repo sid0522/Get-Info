@@ -20,3 +20,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 ![image](https://user-images.githubusercontent.com/12136571/46523354-173e8d80-c8a3-11e8-84a6-a8537220b384.png)
 
+## Built With
+
+* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
+* [Maven](https://maven.apache.org/) - Dependency Management
+* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+
